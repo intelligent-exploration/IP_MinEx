@@ -1,2 +1,2 @@
 # IP
-Image Processing (IP)
+Image Processing tools for Mineral Exploration
