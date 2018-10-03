@@ -17,8 +17,8 @@ The input variable *A* to the FCC codes is an mxnxp matrix which is actually a m
 ## References
 Beauchemin, M., Fung, K. B., 2001, On statistical band selection for image visualization, *Photogrammetric Engineering and Remote Sensing*, 67(5), 571-574
 
+Farahbakhsh, E., Chandra, R., Olierook, H. K. H., Scalzo, R., Clark, C., Reddy, S. M., Muller, R. D., Computer vision-based framework for extracting geological lineaments from optical remote sensing data (Under Review)
+
 Chavez, P. S., Berlin, G. L. & Sowers, L. B., 1982, Statistical method for selecting Landsat MSS ratios, *Journal of Applied Photographic Engineering*, 8(1), 23-30
 
 Sheffield, C., 1985, Selecting band combinations from multispectral data, *Photogrammetric Engineering and Remote Sensing*, 51, 681-687
-
-Farahbakhsh, E., Chandra, R., Olierook, H. K. H., Scalzo, R., Clark, C., Reddy, S. M., Muller, R. D., Computer vision-based framework for extracting geological lineaments from optical remote sensing data (Under Review)
