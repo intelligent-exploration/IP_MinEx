@@ -15,8 +15,10 @@ The textural characteristics of igneous rocks can be discriminated from those of
 The input variable *A* to the FCC codes is an mxnxp matrix which is actually a multispectral image with multiple bands. In this matrix, m equals the number of rows, n equals the number of columns and p equals the number of bands. Each array in this matrix is the brightness value of each pixel. The output variables respectively from the OIF, SI and CI codes in which the band combinations and corresponding score can be found, are called *OptimumIndexFactor*, *SheffiledIndex* and *CIndex*. The band combinations are sorted form the highest to lowest score in the output variables.
 
 ## References
+Beauchemin, M., Fung, K. B., 2001, On statistical band selection for image visualization, *Photogrammetric Engineering and Remote Sensing*, 67(5), 571-574
+
+Farahbakhsh, E., Chandra, R., Olierook, H. K. H., Scalzo, R., Clark, C., Reddy, S. M., Muller, R. D., Computer vision-based framework for extracting geological lineaments from optical remote sensing data (Under Review)
+
 Chavez, P. S., Berlin, G. L. & Sowers, L. B., 1982, Statistical method for selecting Landsat MSS ratios, *Journal of Applied Photographic Engineering*, 8(1), 23-30
 
 Sheffield, C., 1985, Selecting band combinations from multispectral data, *Photogrammetric Engineering and Remote Sensing*, 51, 681-687
-
-Beauchemin, M., Fung, K. B., 2001, On statistical band selection for image visualization, *Photogrammetric Engineering and Remote Sensing*, 67(5), 571-574
